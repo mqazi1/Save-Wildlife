@@ -28,6 +28,10 @@ body {
 	 background-size: 100%;
 	 
 }
-.gallery{
-width: 500;
-height: 500;	}
+p {
+	 width: 1000px;
+    border: 25px green;
+    padding: 40px;
+    margin: 40px;
+	background-color: green;
+}
