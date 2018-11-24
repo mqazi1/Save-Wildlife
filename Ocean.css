@@ -4,27 +4,6 @@
     border: 3px solid #E9BC16;
     padding: 8px;
 }
-body {
-	background-image: url("Tiger.jpg");
-	background-repeat:no-repeat;
-	background-size:100%;
-
-}
-
-h1 {
-    color: yellow;
-}
-h2 {
-	color: Yellow;
-}
-
-p {
-    width: 1000px;
-    border: 25px orange;
-    padding: 40px;
-    margin: 40px;
-	background-color: orange;
-}
 ul {
     list-style-type: none;
     margin: 0;

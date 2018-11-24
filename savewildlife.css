@@ -22,3 +22,9 @@ li a {
 li a:hover {
     background-color: #111;
 }
+body {
+	background-image: url("New Background.jpg");
+	background-repeat:no-repeat;
+	background-size:100%;
+
+}
